@@ -9,3 +9,6 @@ hello
 hello
 hello
 hello world
+
+hello this is king khan
+adding two lines to git_1
