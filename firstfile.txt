@@ -9,3 +9,6 @@ hello
 hello
 hello
 hello
+
+hello this first file in git1
+hellothis is king 
