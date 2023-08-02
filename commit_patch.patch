@@ -1,0 +1,23 @@
+From c3109f38cfedc0f5f788a1c9932044ad87277ba4 Mon Sep 17 00:00:00 2001
+From: sainathreddy <saiprani0003@gmail.com>
+Date: Wed, 2 Aug 2023 15:54:33 +0530
+Subject: [PATCH] Updated SecondFile.txt in git_1
+
+---
+ Secondfile.txt | 3 +++
+ 1 file changed, 3 insertions(+)
+
+diff --git a/Secondfile.txt b/Secondfile.txt
+index 29ee4dd..7c32076 100644
+--- a/Secondfile.txt
++++ b/Secondfile.txt
+@@ -9,3 +9,6 @@ hello
+ hello
+ hello
+ hello world
++
++hello this is king khan
++adding two lines to git_1
+-- 
+2.39.0.windows.2
+
